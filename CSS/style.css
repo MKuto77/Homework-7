@@ -35,6 +35,9 @@ header {
     letter-spacing: 0em;
     text-align: center;
 }
+.active{
+    color: #DCB47A;
+}
 
 .fa-bag-shopping {
     color: #FFFFFF;
